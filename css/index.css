@@ -62,3 +62,8 @@ a:hover{
 .alerta{
     display: none !important;
 }
+
+h1{
+    text-align: center;
+    color: #ff000f;
+}
