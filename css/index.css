@@ -15,7 +15,8 @@ body{
     padding: 3%;
     color: black;
     background-color: #f1e6e6;
-    margin-top: 10%;
+    margin-top: 50px;
+    margin-bottom: 10vh;
 }
 
 .error{
@@ -39,9 +40,10 @@ body{
 }
 
 .footer{
-    margin-top: 100%;
+    position: fixed;
+    width: 100%;
     bottom: 0;
-   padding: 1%;
+    padding: 1%;
     background-color: #fff;
     color: black;
     text-align: center;
